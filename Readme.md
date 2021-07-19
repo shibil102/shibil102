@@ -11,7 +11,7 @@ I'm Mohamed shibin a Front-end Web Developer. and Full-stack developer soon...
 - 🔭 I’m currently working as a freelancer
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: shibilmohamed9@gmail.com.
-- 😄 Pronouns: CoderOne, shibin, shibi.
+- 😄 Pronouns: shibin, shibi.
 - ⚡ Fun fact: Reading books and thinking about startups.
 
 #### 1.0.1. Top Technologies
